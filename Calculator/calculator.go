@@ -7,7 +7,7 @@ func main() {
 	var userInput string
 	userInput = "y"
 
-	fmt.Println("welcome to project calculator")
+	fmt.Println("welcome to the awesome project calculator")
 
 	for userInput == "y" {
 		fmt.Print("please enter your first number: ")
